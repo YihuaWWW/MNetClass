@@ -1,0 +1,8 @@
+build-last-errors="[]"
+build-last-errors-base-dir="G:/工作F/口腔多部位项目/口腔多部位比较/Rpackage/NetClass/"
+build-last-outputs="[{\"type\":0,\"output\":\"==> devtools::build()\\n\\n\"},{\"type\":1,\"output\":\"Error in loadNamespace(j <- i[[1L]], c(lib.loc, .libPaths()), versionCheck = vI[[j]]) : \\r\\n\"},{\"type\":1,\"output\":\"  namespace 'fastmap' 1.1.0 is already loaded, but >= 1.1.1 is required\\r\\n\"},{\"type\":1,\"output\":\"Calls: loadNamespace ... namespaceImportFrom -> asNamespace -> loadNamespace\\r\\n\"},{\"type\":1,\"output\":\"Execution halted\\r\\n\"},{\"type\":1,\"output\":\"\"},{\"type\":2,\"output\":\"\\nExited with status 1.\\n\\n\"}]"
+compile_pdf_state="{\"tab_visible\":false,\"running\":false,\"target_file\":\"\",\"output\":\"\",\"errors\":[]}"
+files.monitored-path=""
+find-in-files-state="{\"handle\":\"\",\"input\":\"\",\"path\":\"\",\"regex\":false,\"ignoreCase\":false,\"results\":{\"file\":[],\"line\":[],\"lineValue\":[],\"matchOn\":[],\"matchOff\":[],\"replaceMatchOn\":[],\"replaceMatchOff\":[]},\"running\":false,\"replace\":false,\"preview\":false,\"gitFlag\":false,\"replacePattern\":\"\"}"
+imageDirtyState="1"
+saveActionState="-1"
